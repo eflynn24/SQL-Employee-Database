@@ -16,8 +16,4 @@ This project was designed to:
 
 ## Database Schema
 The database contains the following main tables:
-Departments
-Employee_Assignment
-Employees
-Jobs
-Salaries
+Departments, Employee_Assignment, Employees, Jobs, Salaries
