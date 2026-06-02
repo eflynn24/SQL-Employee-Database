@@ -1,4 +1,4 @@
-## SQL Database Project - SQL-Employee-Database
+## SQL-Employee-Database
 
 A relational database project demonstrating schema design, data modeling, and SQL querying using a simulated employee dataset.
 
